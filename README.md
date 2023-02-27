@@ -4,7 +4,8 @@ Group Project to create secure Cisco modules that can transfer data to provincia
 Collaboratively worked on submitting a network design outlining a secure wired\wireless network resistant to cyberattacks, that can connect various IOT equipment for monitoring conditions across each province/territory back to their capital office and then to the main office in Ottawa. 
 
 ## Design Considerations:
-*Each modular package should be able to connect 24 wired and 24 wireless devices. Traffic from the IOT devices is expected to be FTP\HTTP based with TELNET\SSH\HTTP being used to provide remote control.
+* Each modular package should be able to connect 24 wired and 24 wireless devices. 
+* Traffic from the IOT devices is expected to be FTP\HTTP based with TELNET\SSH\HTTP being used to provide remote control.
 
 ##	How We Implemented:
 *	Configured IP Addressing for each provincial offices: IP ranges, subnet masks, and WAN IDs.
